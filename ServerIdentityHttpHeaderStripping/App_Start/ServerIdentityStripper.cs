@@ -43,8 +43,7 @@ namespace ServerIdentityHttpHeaderStripping
             {
                 "Server",
                 "X-AspNetMvc-Version",
-                "X-AspNet-Version",
-                "X-Powered-By"
+                "X-AspNet-Version"
             };
         }
 
